@@ -45,6 +45,6 @@
 <a href="https://github.com/Lfurriel" target="_blank">
  <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="instagram"/>
 </a>
-
-![Snake animation](https://github.com/Lfurriel/Lfurriel/blob/output/github-contribution-grid-snake.svg)
 </p>
+
+![snake gif](https://github.com/Lfurriel/Lfurriel/blob/output/github-contribution-grid-snake.svg)
