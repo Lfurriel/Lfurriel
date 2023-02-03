@@ -9,7 +9,7 @@
 
 <br><br>
 
-## 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;MEUS CONHECIMENTOS
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
@@ -23,7 +23,7 @@
 
 <br><br>
 
-## ⚙️ &nbsp;GitHub Analytics
+## ⚙️ &nbsp;MEU GITHUB
 
 
 <p align="left">
@@ -34,7 +34,7 @@
 
 <br><br>
 
-## Contact
+## ONDE ME ENCONTRA
 
 <a href="https://www.linkedin.com/in/lucas-furriel-rodrigues-97a75020b/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
