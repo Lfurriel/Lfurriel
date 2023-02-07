@@ -25,8 +25,8 @@
 
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=lfurriel&show_icons=true&theme=outrun" alt="lfurriel's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfurriel&layout=compact&theme=outrun" alt="lfurriel's most languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lfurriel&show_icons=true&theme=outrun&include_all_commits=true&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfurriel&layout=compact&langs_count=7&theme=outrun"/>
 </p>
 
 
