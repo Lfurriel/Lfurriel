@@ -1,4 +1,4 @@
-<h1 align="left">Alô <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, me chamo Lucas Furriel</h1>
+<h1 align="left">Alô, me chamo Lucas Furriel</h1>
 
 
 - 📖 Estudante de ciência da computação UNESP - São José do Rio Preto 
