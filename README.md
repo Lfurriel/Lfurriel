@@ -28,7 +28,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lfurriel&show_icons=true&theme=outrun&include_all_commits=true&count_private=false"/>
 </p>
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfurriel&layout=compact&langs_count=7&theme=outrun&count-private=true&exclude_repo=Trabalho-Calculo"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfurriel&layout=compact&langs_count=7&theme=outrun&count_private=true&exclude_repo=Trabalho-Calculo"/>
 </p>
 
 
