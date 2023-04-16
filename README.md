@@ -5,19 +5,29 @@
 
 - ☕ Desenvolvedor Java Júnior
 
+- 👨‍💻 Buscando aprender novas linguagens como Javascritp e Python
+
 
 
 <br><br>
 
 ## 🛠 &nbsp;MEUS CONHECIMENTOS
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
-![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
-![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)&nbsp;
-![DOCKER](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
-![POSTGRES](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-![GIT](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+<div style="display: inline_block">
+  <img style="padding:0 1rem 0 0" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img style="padding:0 1rem 0 0" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> 
+  <img style="padding:0 1rem 0 0" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img style="padding:0 1rem 0 0" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/groovy/groovy-original.svg">
+  <img style="padding:0 1rem 0 0" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  <img style="padding:0 1rem 0 0" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img style="padding:0 1rem 0 0" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img style="padding:0 1rem 0 0" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
+  <img style="padding:0 1rem 0 0" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg">
+  <img style="padding:0 1rem 0 0" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg">
+  <img style="padding:0 1rem 0 0" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg">
+  <img style="padding:0 1rem 0 0" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
+
+  </div>
 
 <br><br>
 
@@ -28,7 +38,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lfurriel&show_icons=true&theme=outrun&include_all_commits=true&count_private=false"/>
 </p>
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfurriel&layout=compact&langs_count=7&theme=outrun&count_private=true&exclude_repo=Trabalho-Calculo"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfurriel&layout=compact&langs_count=7&theme=outrun&exclude_repo=Trabalho-Calculo&count_private=true"/>
 </p>
 
 
