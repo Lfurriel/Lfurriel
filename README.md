@@ -35,10 +35,10 @@
 
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lfurriel&show_icons=true&theme=outrun&include_all_commits=true&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lfurriel&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
 </p>
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfurriel&layout=compact&langs_count=7&theme=outrun&exclude_repo=Trabalho-Calculo&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfurriel&layout=compact&langs_count=7&theme=outrun&exclude_repo=Trabalho-Calculo&count_private=true"/>
 </p>
 
 
