@@ -17,7 +17,6 @@
   <img style="padding:0 1rem 0 0" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img style="padding:0 1rem 0 0" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> 
   <img style="padding:0 1rem 0 0" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img style="padding:0 1rem 0 0" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/groovy/groovy-original.svg">
   <img style="padding:0 1rem 0 0" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img style="padding:0 1rem 0 0" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img style="padding:0 1rem 0 0" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
@@ -34,9 +33,6 @@
 ## ⚙️ &nbsp;MEU GITHUB
 
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lfurriel&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
-</p>
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfurriel&layout=compact&langs_count=7&theme=outrun&exclude_repo=Trabalho-Calculo&count_private=false"/>
 </p>
