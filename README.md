@@ -12,19 +12,12 @@
 <br><br>
 
 ## 🛠 &nbsp;MEUS CONHECIMENTOS
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,java,idea,spring,c,docker,jenkins,kafka,postgres,mysql,postman,git" />
+  </a>
+</p>
 
-<div style="display: inline_block">
-  <img style="padding:0 1rem 0 0" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img style="padding:0 1rem 0 0" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> 
-  <img style="padding:0 1rem 0 0" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img style="padding:0 1rem 0 0" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img style="padding:0 1rem 0 0" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img style="padding:0 1rem 0 0" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
-  <img style="padding:0 1rem 0 0" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg">
-  <img style="padding:0 1rem 0 0" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg">
-  <img style="padding:0 1rem 0 0" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
-
-  </div>
 
 <br><br>
 
