@@ -1,25 +1,25 @@
-<h1 align="left">Alô, me chamo Lucas Furriel</h1>
+# > Alô, me chamo Lucas Furriel</h1>
 
 
 - 📖 Estudante de ciência da computação UNESP - São José do Rio Preto 
 
 - ☕ Desenvolvedor Java Júnior
 
-- 👨‍💻 Buscando aprender novas linguagens como Javascript e Python
+- 👨‍💻 Buscando aprender novas linguagens como Javascript
 
-
-
-<br><br>
+---
 
 ## 🛠 &nbsp;MEUS CONHECIMENTOS
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,java,idea,spring,c,docker,jenkins,kafka,postgres,mysql,postman,git" />
-  </a>
-</p>
+### Linguagens
+![Linguagens](https://skillicons.dev/icons?i=java,c,perl)
 
+### Tecnologias
+![Tecnologias](https://skillicons.dev/icons?i=aws,spring,docker,jenkins,kafka,postman,git,maven)
 
-<br><br>
+### Banco de dados
+![BD](https://skillicons.dev/icons?i=postgres,mysql)
+
+---
 
 ## ⚙️ &nbsp;MEU GITHUB
 
@@ -28,9 +28,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfurriel&layout=compact&langs_count=7&theme=outrun&exclude_repo=Trabalho-Calculo&count_private=false"/>
 </p>
 
-
-
-<br><br>
+---
 
 ## ONDE ME ENCONTRA
 
