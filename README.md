@@ -11,7 +11,7 @@
 
 ## 🛠 &nbsp;MEUS CONHECIMENTOS
 ### Linguagens
-![Linguagens](https://skillicons.dev/icons?i=java,c,perl)
+![Linguagens](https://skillicons.dev/icons?i=java,c,go)
 
 ### Tecnologias
 ![Tecnologias](https://skillicons.dev/icons?i=aws,spring,docker,jenkins,kafka,postman,git,maven)
