@@ -5,7 +5,7 @@
 
 - ☕ Desenvolvedor Java Júnior
 
-- 👨‍💻 Buscando aprender novas linguagens como Javascript
+- 👨‍💻 Aprendendo novas linguagens - Golang e Typescript
 
 ---
 
