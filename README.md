@@ -25,7 +25,10 @@
 
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfurriel&layout=compact&langs_count=7&theme=outrun&exclude_repo=Trabalho-Calculo&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfurriel&layout=compact&langs_count=7&theme=aura&exclude_repo=Trabalho-Calculo&count_private=false"/> 
+  <br/> 
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lfurriel&theme=aura&layout=compact" />
 </p>
 
 ---
