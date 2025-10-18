@@ -3,7 +3,7 @@
 
 - 📖 Estudante de ciência da computação UNESP - São José do Rio Preto 
 
-- ☕ Desenvolvedor Java Júnior
+- ☕ Desenvolvedor Java Pleno
 
 - 👨‍💻 Aprendendo novas linguagens - Golang e Typescript
 
