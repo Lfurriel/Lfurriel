@@ -1,7 +1,7 @@
 # > Alô, me chamo Lucas Furriel</h1>
 
 
-- 📖 Estudante de ciência da computação UNESP - São José do Rio Preto 
+- 📖 Cientista da computação UNESP - São José do Rio Preto 
 
 - ☕ Desenvolvedor Java Pleno
 
